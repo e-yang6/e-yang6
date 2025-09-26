@@ -1,5 +1,4 @@
 <div align="center">
   <br>
-  <p><strong>"Tavo akys mato skausmą / Mano akims tik duoda jausmą"</strong></p>
+  <p><strong>"Nothing worth having comes easy." - Theodore Roosevelt</strong></p>
 </div>
-
