@@ -2,4 +2,4 @@
 
 This is a place where I share projects, experiment with ideas, and take creative breaks.
 
-Currently learning C++, exploring its applications in quantitative finance, and expanding my skills in full-stack development.
+Currently learning C++, exploring its applications in fintech, and expanding my skills in full-stack development.
