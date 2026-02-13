@@ -1,6 +1,7 @@
 ### Hey, I'm Ethan👋
 - 1st year computer engineering student at [UofT](https://www.utoronto.ca/)
 - incoming API devleopment intern at [Sun Life](https://www.sunlife.ca/en/)
+- fun fact: i like volleyball
 
 currently building: DAW that turns your voice into music [↗](https://github.com/e-yang6/sinatra)
 
