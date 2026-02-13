@@ -1,4 +1,4 @@
-### hey, i'm ethan <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+### hey, i'm ethan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 - first year computer engineering student at [uoft](https://www.utoronto.ca/)
 - incoming api development intern at [sun life](https://www.sunlife.ca/en/)
 - fun fact: i like volleyball
